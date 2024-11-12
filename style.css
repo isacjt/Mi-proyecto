@@ -23,3 +23,8 @@ th, td {
 th {
     background-color: gray;
 }
+
+footer {
+    justify-content: center;
+    text-align: center;
+}

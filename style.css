@@ -1,0 +1,25 @@
+ /* Estilo básico para la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+}
+/* Estilo para las listas */
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+/* Estilo para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: gray;
+}
